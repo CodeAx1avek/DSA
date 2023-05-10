@@ -7,5 +7,6 @@ Q1.Two sum - Given an array of integers nums and an integer target, return indic
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 You can return the answer in any order.
+<hr>
 
 Q2.Given an integer x, return true if x is a palindrome, and false otherwise.
